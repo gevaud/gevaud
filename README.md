@@ -45,4 +45,4 @@
 🐦 [Twitter](https://twitter.com/exaltedfenebace)  
 
 ---
-✨ *“Hedefim; güçlü yazılım altyapısı, modern arayüzler ve kullanıcı deneyimi odaklı projeler geliştirmek. Her gün, bilgi birikimimi genişletmek ve profesyonel becerilerimi bir üst seviyeye taşımak için çalışıyorum.”*
+✨ *Hedefim; güçlü yazılım altyapısı, modern arayüzler ve kullanıcı deneyimi odaklı projeler geliştirmek. Her gün, bilgi birikimimi genişletmek ve profesyonel becerilerimi bir üst seviyeye taşımak için çalışıyorum.*
