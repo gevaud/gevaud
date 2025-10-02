@@ -15,21 +15,22 @@
 ## 🛠️ Kullandığım Teknolojiler  
 
 ### 🔹 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="40"/>  
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="40"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="40"/>  
 
 ### 🔹 Backend  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40"/>  
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="40"/>  
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="40"/>  
 
 ### 🔹 Araçlar  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?logo=visual-studio-code&logoColor=white)  
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40"/>  
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="40"/>  
+<img src="https://img.shields.io/badge/VSCode-0078d7?logo=visual-studio-code&logoColor=white" height="40"/>  
 
 ---
+
 
 ## 📊 GitHub İstatistiklerim  
 <p align="center">
