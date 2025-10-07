@@ -42,7 +42,7 @@
 
 ## 🌐 Sosyal Medya & İletişim  
 📩 [Mail](mailto:exaltedege@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/ege-özdemir-732a4b322)  
+💼 [LinkedIn](https://www.linkedin.com/in/egeozdemirln/)  
 🐦 [Twitter](https://twitter.com/exaltedfenebace)  
 
 ---
